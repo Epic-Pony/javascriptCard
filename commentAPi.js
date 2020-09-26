@@ -4,7 +4,7 @@
  * @Autor: Pony
  * @Date: 2020-09-03 14:06:05
  * @LastEditors: Pony
- * @LastEditTime: 2020-09-03 14:47:35
+ * @LastEditTime: 2020-09-26 11:24:57
  */
 //1.三元运算符
 let somethingTrue = true
@@ -40,7 +40,7 @@ let obj = {x,y}
 //5. Object.entries()
 const credit = {
     producer: '大千世界',
-    name: '前端小智',
+    name: '逍遥子',
     rating: 9
 }
 const arr = Object.entries(credit)
